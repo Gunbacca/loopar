@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("loopar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a9444d6a05a7f561447de49af2fbe80e002252a6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d59d28054b62fda84e002172000c973ceb56e18")]
 [assembly: System.Reflection.AssemblyProductAttribute("loopar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("loopar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
